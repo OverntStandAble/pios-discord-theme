@@ -20,7 +20,7 @@
     --pios-accent-hue:      0;
     --pios-title-text:      "piOS v2.1.01p";
 
-    --crt-stripe:   none;
+    --crt-stripe:   block;
     --crt-scanline: block;   /* ⛐ This effect is performance-intensive. */
     --crt-flicker:  block;   /* ⚠ This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
 }
